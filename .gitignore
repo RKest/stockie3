@@ -1,0 +1,17 @@
+tempUserDir
+node_modules
+.ipynb_checkpoints
+dist
+jupy
+MNIST
+asd.json
+/src/ai
+/src/data/5_us_txt
+/src/data/5_us_txt_@1
+/src/data/_txtData.json
+/src/data/_txtTestData.json
+/src/scanning/_historicPrices.json
+/src/stocks/_londonStocks.json
+/src/stocks/_nyseStocks.json
+/src/strategies/_livePortfolio.json
+/src/strategies/_strategies.json
